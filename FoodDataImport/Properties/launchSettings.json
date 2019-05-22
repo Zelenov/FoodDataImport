@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FoodDataImport": {
+      "commandName": "Project",
+      "commandLineArgs": "-s"
+    }
+  }
+}
